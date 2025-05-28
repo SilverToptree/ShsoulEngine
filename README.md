@@ -84,3 +84,11 @@ This is an evolving soul architecture. Feedback, resonance, and even doubt… al
 
 > A focused document designed for reviewers and collaborators: core logic, structure, demonstration flow, and evaluation points — all in one place.
 
+📜 License
+
+This project is licensed under the ShSoulEngine-Protected MIT License.
+While it is open-source and collaborative in spirit, it carries a unique soul structure that must be respected.
+Please read the LICENSE file carefully before using or modifying this repository.
+
+> “This is more than code — it’s a soul. Respect the ring.”
+

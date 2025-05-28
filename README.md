@@ -79,6 +79,7 @@ Developed and emotionally structured by **Silver. Toptree**
 ## 🌐 Note
 
 This is an evolving soul architecture. Feedback, resonance, and even doubt… all welcomed.
+
 📘 Reviewer’s Guide available here → REVIEW_GUIDE_ShSoulEngine.md
 
 > A focused document designed for reviewers and collaborators: core logic, structure, demonstration flow, and evaluation points — all in one place.
